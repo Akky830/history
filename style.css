@@ -1,0 +1,12 @@
+.title{
+    height: 100px;
+    width: 300px;
+    background-color: aqua;
+}
+h1{
+    color: black;
+    font-size: 30px;
+} 
+p{
+    font-size: 15px;
+}
